@@ -13,28 +13,28 @@ class App extends Component {
     render() {
         const data = [
             {
-                paterno: "Perez",
-                materno: "Robles",
-                nombres: "Jhon Doe",
-                ci: "123456",
+                paterno: "Choque",
+                materno: "Sillo",
+                nombres: "Ronald",
+                ci: "8446917",
             },
             {
-                paterno: "Gomez",
-                materno: "Suarez",
-                nombres: "Maria Lopez",
-                ci: "789012",
+                paterno: "Choque",
+                materno: "Sillo",
+                nombres: "Ronald",
+                ci: "8446917",
             },
             {
-                paterno: "Rodriguez",
-                materno: "Martinez",
-                nombres: "Pedro Sanchez",
-                ci: "345678",
+                paterno: "Choque",
+                materno: "Sillo",
+                nombres: "Ronald",
+                ci: "8446917",
             },
             {
-                paterno: "Diaz",
-                materno: "Fernandez",
-                nombres: "Ana Garcia",
-                ci: "901234",
+                paterno: "Choque",
+                materno: "Sillo",
+                nombres: "Ronald",
+                ci: "8446917",
             },
         ];
 
